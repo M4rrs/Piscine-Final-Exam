@@ -1,5 +1,5 @@
 upload:
 	git add .
-	git commit -m "auto upload"
+	git commit -m "automatic"
 	git push
 
